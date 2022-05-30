@@ -13,7 +13,7 @@ class Program
         int integerOne;
         int integerTwo;
 
-        // input
+        // iput
         Console.WriteLine("This program uses a loops for multiplication");
         Console.WriteLine("");
         Console.WriteLine("You will need to input 2 numbers to be used");
